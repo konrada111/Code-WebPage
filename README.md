@@ -1,6 +1,6 @@
 ﻿# Code-WebPage
 
-Simple landing page with two HTML files and two CSS file.
+Simple landing page fully responsiwe with one same Html and two diffrent CSS files.
 
 ## Technologies :
 
@@ -11,8 +11,15 @@ Simple landing page with two HTML files and two CSS file.
 
 ### First Landing Page
 
-![Home Page](https://i.imgur.com/mDLQdYB.png)
+![](https://i.imgur.com/mDLQdYB.png)
 
+### Second Landing Page
+
+![](https://i.imgur.com/Ptc85Pg.png)
+
+### Responsive
+
+![](https://i.imgur.com/npWmN2M.png)
 
 ### Setup
 
