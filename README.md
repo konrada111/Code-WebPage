@@ -11,7 +11,7 @@ Simple landing page with two HTML files and two CSS file.
 
 ### First Landing Page
 
-![](https://imgur.com/a/C0YOBt4)
+![Home Page](https://imgur.com/a/C0YOBt4.png)
 
 
 ### Setup
