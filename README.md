@@ -19,7 +19,7 @@ Simple landing page fully responsiwe with one same Html and two diffrent CSS fil
 
 ### Responsive
 
-![](https://i.imgur.com/npWmN2M.png)
+![](https://i.imgur.com/NWZqCNs.png)
 
 ### Setup
 
